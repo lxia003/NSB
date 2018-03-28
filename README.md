@@ -1,2 +1,1 @@
-# NSB
-Some useful info or materials of NSB
+This project is used to check and configure container for user.
